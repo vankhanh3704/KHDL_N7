@@ -1,4 +1,0 @@
-# KHDL_N7_BTL2
-# KHDL_N7
-# KHDL_N7
-# KHDL_N7
